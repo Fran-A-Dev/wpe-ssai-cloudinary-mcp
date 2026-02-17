@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WP MCP Server
- * Plugin URI: https://wpengine.com
+ * Plugin URI: https://github.com/Fran-A-Dev/wpe-ssai-cloudinary-mcp
  * Description: WordPress, Cloudinary and Smart Search AI management via MCP 
  * Version: 2.0.0
  * Author: Fran Agulto
